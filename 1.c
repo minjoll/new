@@ -1,4 +1,4 @@
-#include <myProject.h"
+#include "myProject.h"
 
 int printMyName1()
 {
